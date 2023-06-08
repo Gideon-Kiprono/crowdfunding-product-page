@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Commissioner', sans-serif;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+.hero .hero-image{
+    width: 100%;
+}
+.hero .menu{
+    position: absolute;
+    top: 1%;
+    left: 95%;
+    right: 5%;
+    text-align: center;
+}
+.main {
+    border: black;
+    width: 30%;
+    display: block;
+    
+}
