@@ -32,11 +32,10 @@ header {
 }
 .main {
   border: black;
-  width: 30%;
-  display: block;
-}
-#mobileNav {
-  display: none;
+  /* width: 30%; */
+  /* display: block; */
+  margin: 0 50px;
+  padding: 0 0;
 }
 .menu #openNav {
   display: none;
@@ -126,12 +125,12 @@ header {
 #mobileNav a:focus {
   background-color: hsl(0, 0%, 95%);
 }
-.main {
+/* .main {
   width: 70%;
   padding-left: 10%;
   padding-right: 10%;
   padding-bottom: 20px;
-}
+} */
 .master {
   /* margin: 0 60px; */
   position: relative;
